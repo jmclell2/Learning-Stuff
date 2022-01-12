@@ -1,0 +1,2 @@
+spaghetti = bad
+print(spaghetti)
