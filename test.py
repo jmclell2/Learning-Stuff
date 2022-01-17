@@ -1,2 +1,2 @@
-spaghetti = "bad poop"
+spaghetti = "bad poopy"
 print(spaghetti)
